@@ -1,1 +1,10 @@
 venv
+.env
+
+*.json
+*.xlsx
+*.csv
+*.pkl
+*.txt
+
+__pycache__
